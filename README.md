@@ -1,3 +1,7 @@
+# This repository is deprecated
+
+This code is now located in our monorepo [here](https://github.com/reactioncommerce/reaction/tree/trunk/packages/api-plugin-job-queue)
+
 # api-plugin-job-queue
 
 [![npm (scoped)](https://img.shields.io/npm/v/@reactioncommerce/api-plugin-job-queue.svg)](https://www.npmjs.com/package/@reactioncommerce/api-plugin-job-queue)
